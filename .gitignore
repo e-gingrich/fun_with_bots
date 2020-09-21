@@ -1,0 +1,8 @@
+# VSCODE
+.vscode/settings.json
+
+# PYCACHE
+*.pyc
+
+# OTHER
+chromedriver86.exe
